@@ -1,0 +1,9 @@
+### BUILD ENV ###
+dist/
+build/
+
+### VIRTUAL ENVIORMENT ###
+fridat_env/
+
+### ENV ###
+.env
