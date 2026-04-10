@@ -3,7 +3,7 @@ dist/
 build/
 
 ### VIRTUAL ENVIORMENT ###
-fridat_env/
+friday_env/
 
 ### ENV ###
 .env
