@@ -4,6 +4,10 @@ build/
 
 ### VIRTUAL ENVIORMENT ###
 friday_env/
+.idea/
+__pycache__/
 
 ### ENV ###
 .env
+
+
